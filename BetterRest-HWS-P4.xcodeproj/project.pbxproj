@@ -11,6 +11,7 @@
 		01BB6C3A28F6A98C00CE34D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BB6C3928F6A98C00CE34D6 /* ContentView.swift */; };
 		01BB6C3C28F6A98E00CE34D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01BB6C3B28F6A98E00CE34D6 /* Assets.xcassets */; };
 		01BB6C3F28F6A98E00CE34D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01BB6C3E28F6A98E00CE34D6 /* Preview Assets.xcassets */; };
+		01E60F9D28F7184900B2A17D /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 01E60F9C28F7184900B2A17D /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		01BB6C3928F6A98C00CE34D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		01BB6C3B28F6A98E00CE34D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01BB6C3E28F6A98E00CE34D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		01E60F9C28F7184900B2A17D /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				01BB6C3728F6A98C00CE34D6 /* BetterRest_HWS_P4App.swift */,
 				01BB6C3928F6A98C00CE34D6 /* ContentView.swift */,
 				01BB6C3B28F6A98E00CE34D6 /* Assets.xcassets */,
+				01E60F9C28F7184900B2A17D /* SleepCalculator.mlmodel */,
 				01BB6C3D28F6A98E00CE34D6 /* Preview Content */,
 			);
 			path = "BetterRest-HWS-P4";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01E60F9D28F7184900B2A17D /* SleepCalculator.mlmodel in Sources */,
 				01BB6C3A28F6A98C00CE34D6 /* ContentView.swift in Sources */,
 				01BB6C3828F6A98C00CE34D6 /* BetterRest_HWS_P4App.swift in Sources */,
 			);
